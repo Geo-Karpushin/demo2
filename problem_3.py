@@ -1,6 +1,10 @@
 import csv
 
 def main():
+    """
+        Фукнция-активатор, выполняет задание 3
+    """
+
     file = open("students.csv")
     while True:
         com = input()
